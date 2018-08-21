@@ -1,1 +1,1 @@
-# gru_nmt-for Usyd
+# gru_nmt
